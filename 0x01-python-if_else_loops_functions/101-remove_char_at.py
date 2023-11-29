@@ -8,4 +8,4 @@ def remove_char_at(str, n):
         if x != n:
             result += str[x]
 
-        return (result)
+    return (result)
